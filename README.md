@@ -32,4 +32,4 @@
   * Recall - high risk .91, low risk .94
   ***
 <h2> Summary </h2>
-<p> Based on this testing Easy Ensemble has the highest balanced accuracy as well as both high and low risk recall. The downside is it has the highest rate of false positives. However when it comes to credit risk we'd rather tag too many people as high risk than tag someone high risk as low risk resulting in potential large losses if/when they were to default </p>
+<p> Based on this testing Easy Ensemble has the highest balanced accuracy as well as both high and low risk recall. The downside is it has the highest rate of false positives. However when it comes to credit risk we'd rather tag too many people as high risk than tag someone high risk as low risk resulting in potential large losses if/when they were to default. So Easy Ensemble would be the recommended model for this project</p>
